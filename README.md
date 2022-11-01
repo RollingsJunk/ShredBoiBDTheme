@@ -1,4 +1,4 @@
 # ShredBoiBDTheme
  shredmid
  
-![shredmid](ANGRY SHREDMID CROPPED)
+![shredmid](ANGRY SHREDMID CROPPED.png)
