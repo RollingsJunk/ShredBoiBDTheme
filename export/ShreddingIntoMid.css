@@ -1,0 +1,21 @@
+/**
+ * @name ShredMid's BetterDiscord Theme
+ * @author Fuse#2775
+ * @version 1.0.0
+ * @description A shred, which is mad over antagonism flp.
+ * @source https://github.com/FuseIsHere813/GoofyAhhShredBoiBDTheme/
+*/
+
+@import url('https://raw.githubusercontent.com/FuseIsHere813/GoofyAhhShredBoiBDTheme/main/base.css');
+
+/* Variables */
+:root {
+    --avatar-size: 32px;
+    --background-image: url('https://raw.githubusercontent.com/FuseIsHere813/GoofyAhhShredBoiBDTheme/main/ANGRY%20SHREDMID%20CROPPED.png');
+    --home-image: url('https://github.com/FuseIsHere813/GoofyAhhShredBoiBDTheme/blob/main/shredmid.png');
+    --background-solid: #161921;
+    --background-solid-dark: #101218;
+    --background-solid-darker: #0c0e12;
+    --accent: 37, 172, 232;
+    --accent-alt: 29, 101, 134;
+}
